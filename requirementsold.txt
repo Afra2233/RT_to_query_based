@@ -10,3 +10,5 @@ tensorflow
 # tensorboard==2.5.0
 # tensorflow-gpu==1.15.0
 advertorch
+tqdm
+torchvision
