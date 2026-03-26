@@ -1,14 +1,20 @@
 numpy
-scipy
-matplotlib
-dill
-pandas
-torch
-tensorboard
-tensorflow
+pandas==2.0.
+torch==1.13.1+cu116
+torchvision==0.14.1+cu116
+tensorflow==2.13.0
+robustness==1.2.1.post2
+tqdm==4.66.1
+scikit-learn==1.1.3
+scipy==1.10.1
+matplotlib==3.7.2
+# tensorboard
 # torch==1.6.0
 # tensorboard==2.5.0
 # tensorflow-gpu==1.15.0
-advertorch
-tqdm
-torchvision
+adversarial-robustness-toolbox==1.15.1
+# advertorch
+
+
+
+

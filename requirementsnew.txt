@@ -1,3 +1,148 @@
+# absl-py==1.4.0
+# adversarial-robustness-toolbox==1.15.1
+
+# astunparse==1.6.3
+# atomicwrites==1.4.0
+
+# blosc2==2.0.0
+# brotlipy==0.7.0
+# cachetools==5.3.1
+
+# contourpy==1.1.0
+# cox==0.1.post3
+
+# cycler==0.11.0
+# Cython==3.0.2
+# filelock==3.12.2
+
+# flatbuffers==23.5.26
+# fonttools==4.42.1
+# gast==0.4.0
+# gitdb==4.0.10
+# GitPython==3.1.37
+# google-auth==2.22.0
+# google-auth-oauthlib==1.0.0
+# google-pasta==0.2.0
+# GPUtil==1.4.0
+# grpcio==1.57.0
+# h5py==3.9.0
+# inflection==0.5.1
+
+# joblib==1.3.2
+
+# kaggle==1.5.16
+# keras==2.13.1
+
+# kiwisolver==1.4.4
+# kornia==0.7.0
+
+# libclang==16.0.6
+# Markdown==3.4.4
+
+# matplotlib==3.7.2
+
+# mistune==0.8.4
+# mkl-fft==1.3.6
+# mkl-service==2.4.0
+
+# mpmath==1.3.0
+# msgpack==1.0.7
+# munch==4.0.0
+# mypy-extensions==0.4.3
+
+# networkx==3.1
+# numexpr==2.8.6
+# numpy 
+# numpydoc @ file:///C:/b/abs_cfdd4zxbga/croot/numpydoc_1668085912100/work
+# oauthlib==3.2.2
+# opt-einsum==3.3.0
+# packaging @ file:///C:/b/abs_ed_kb9w6g4/croot/packaging_1678965418855/work
+# pandas==2.0.3
+# pandocfilters @ file:///opt/conda/conda-bld/pandocfilters_1643405455980/work
+# paramiko @ file:///opt/conda/conda-bld/paramiko_1640109032755/work
+# parso @ file:///opt/conda/conda-bld/parso_1641458642106/work
+# pathspec @ file:///C:/b/abs_9cu5_2yb3i/croot/pathspec_1674681579249/work
+# pexpect @ file:///tmp/build/80754af9/pexpect_1605563209008/work
+# pickleshare @ file:///tmp/build/80754af9/pickleshare_1606932040724/work
+# Pillow==10.0.0
+# pkgutil_resolve_name @ file:///C:/Users/BUILDE~1/AppData/Local/Temp/abs_81wm45v3kb/croots/recipe/pkgutil-resolve-name_1661463352381/work
+# platformdirs @ file:///C:/b/abs_b6z_yqw_ii/croot/platformdirs_1692205479426/work
+# pluggy @ file:///C:/ci/pluggy_1648042776090/work
+# ply==3.11
+# poyo @ file:///tmp/build/80754af9/poyo_1617751526755/work
+# pretrainedmodels==0.7.4
+# prompt-toolkit @ file:///C:/b/abs_6coz5_9f2s/croot/prompt-toolkit_1672387908312/work
+# protobuf==4.24.1
+# psutil @ file:///C:/Windows/Temp/abs_b2c2fd7f-9fd5-4756-95ea-8aed74d0039flsd9qufz/croots/recipe/psutil_1656431277748/work
+# ptyprocess @ file:///tmp/build/80754af9/ptyprocess_1609355006118/work/dist/ptyprocess-0.7.0-py2.py3-none-any.whl
+# pure-eval @ file:///opt/conda/conda-bld/pure_eval_1646925070566/work
+# py-cpuinfo==9.0.0
+# py3nvml==0.2.7
+# pyasn1==0.5.0
+# pyasn1-modules==0.3.0
+# pycodestyle @ file:///C:/b/abs_d77nxvklcq/croot/pycodestyle_1674267231034/work
+# pycparser @ file:///tmp/build/80754af9/pycparser_1636541352034/work
+# pydocstyle @ file:///C:/b/abs_6dz687_5i3/croot/pydocstyle_1675221688656/work
+# pyflakes @ file:///C:/b/abs_6dve6e13zh/croot/pyflakes_1674165143327/work
+# Pygments @ file:///C:/b/abs_fay9dpq4n_/croot/pygments_1684279990574/work
+# pylint @ file:///C:/b/abs_83sq99jc8i/croot/pylint_1676919922167/work
+# pylint-venv @ file:///C:/b/abs_bf0lepsbij/croot/pylint-venv_1673990138593/work
+# pyls-spyder==0.4.0
+# PyNaCl @ file:///C:/Windows/Temp/abs_d5c3ajcm87/croots/recipe/pynacl_1659620667490/work
+# pyOpenSSL @ file:///C:/b/abs_08f38zyck4/croot/pyopenssl_1690225407403/work
+# pyparsing==3.0.9
+# PyQt5==5.15.7
+# PyQt5-sip @ file:///C:/Windows/Temp/abs_d7gmd2jg8i/croots/recipe/pyqt-split_1659273064801/work/pyqt_sip
+# PyQtWebEngine==5.15.4
+# pyrsistent @ file:///C:/ci/pyrsistent_1636111468851/work
+# PySocks @ file:///C:/ci/pysocks_1605287845585/work
+# python-dateutil @ file:///tmp/build/80754af9/python-dateutil_1626374649649/work
+# python-lsp-black @ file:///C:/Users/BUILDE~1/AppData/Local/Temp/abs_dddk9lhpp1/croots/recipe/python-lsp-black_1661852041405/work
+# python-lsp-jsonrpc==1.0.0
+
+# pywin32==305.1
+# pywin32-ctypes==0.2.0
+# PyYAML==6.0
+
+# requests-oauthlib==1.3.1
+# robustness==1.2.1.post2
+
+# rsa==4.9
+
+# scikit-learn==1.1.3
+# scipy==1.10.1
+# seaborn==0.13.0
+
+# smmap==5.0.1
+
+# sympy==1.12
+# tables==3.8.0
+# tensorboard==2.13.0
+# tensorboard-data-server==0.7.1
+# tensorboardX==2.6.2.2
+# tensorflow==2.13.0
+# tensorflow-estimator==2.13.0
+# tensorflow-intel==2.13.0
+# tensorflow-io-gcs-filesystem==0.31.0
+# termcolor==2.3.0
+
+# threadpoolctl==3.2.0
+
+
+# torch==1.13.1+cu116
+# torchaudio==0.10.1+cu113
+# torchvision==0.14.1+cu116
+
+# tqdm==4.66.1
+
+# typing_extensions==4.5.0
+# tzdata==2023.3
+# webencodings==0.5.1
+# Werkzeug==2.3.7
+# xmltodict==0.13.0
+
+
+
 absl-py==1.4.0
 adversarial-robustness-toolbox==1.15.1
 alabaster @ file:///home/ktietz/src/ci/alabaster_1611921544520/work
